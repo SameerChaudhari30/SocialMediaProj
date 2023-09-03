@@ -1,9 +1,3 @@
-## Team - SocialGeeks
-
-* Sameer Chaudhari, schaud24@binghamton.edu
-* Snehal Karwa, skarwa1@binghamton.edu
-* Pratik Upadhyay, pupadhy3@binghamton.edu
-
 ## Tech-stack
 * 'python' - The project is developed and tested using python v3.9. [Python Website](https://www.python.org/)
 * 'pymongo'- This project uses NoSQL database MongoDB to store the collected data
